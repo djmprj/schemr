@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Add HUB-SDK Docs reference section (#7781)
