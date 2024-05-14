@@ -1,1 +1,1 @@
-Add OBB save_txt feature (#7450)
+Add PR Summary step to Ultralytics Actions (#7675)
